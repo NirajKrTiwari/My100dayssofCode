@@ -9,4 +9,8 @@ I am Learning Singly Linked List Deletion Operation in different scenerio.
 
 More Info [here][Day2/SingleLinkedListDeletion.java]
 
+# Day3
+I am Learning Singly Linked List Searching Operation.
+
+More Info [here][Day3/SinglyLinkedListSearchOpr.java]
 
