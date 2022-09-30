@@ -92,7 +92,4 @@ public class SingleLinkedListInsertion {
         s1.addLastNode(34);
         s1.display();
     }
-}>>>>>>>
-
-Stashed
-changes
+}
