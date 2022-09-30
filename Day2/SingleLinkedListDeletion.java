@@ -1,7 +1,5 @@
 package Day2;
 
-import javax.swing.plaf.synth.SynthIcon;
-
 public class SingleLinkedListDeletion {
     class Node {
         int data;
