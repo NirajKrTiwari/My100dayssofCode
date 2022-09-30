@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+<<<<<<<Updated upstream
 // Day1
 // I am Learning Singly Linked List Insertion Operation in different scenerio.
 package Day1;
@@ -93,8 +93,7 @@ public class SingleLinkedListInsertion {
         s1.addLastNode(34);
         s1.display();
     }
-}
-=======
+}=======
 // Day1
 // I am Learning Singly Linked List Insertion Operation in different scenerio.
 package Day1;
@@ -189,5 +188,7 @@ public class SingleLinkedListInsertion {
         s1.addLastNode(34);
         s1.display();
     }
-}
->>>>>>> Stashed changes
+}>>>>>>>
+
+Stashed
+changes
