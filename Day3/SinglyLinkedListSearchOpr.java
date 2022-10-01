@@ -78,6 +78,7 @@ public class SinglyLinkedListSearchOpr {
         int target = in.nextInt();
         System.out.println();
         s1.searchNode(target);
+        in.close();
 
     }
 }
