@@ -12,3 +12,5 @@ Input: S = "abc"
 Output: 0
 Explanation: S is not a palindrome
 
+Expected Time Complexity: O(Length of S)
+Expected Auxiliary Space: O(1)
