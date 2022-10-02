@@ -9,9 +9,9 @@ public class PalindromeGeek {
                 s1 = s1 + S.charAt(i);
             }
             if (S.equals(s1)) {
-                System.out.println("Palindrome");
+                System.out.println("S is Palindrome");
             } else {
-                System.out.println("Not Palindrome");
+                System.out.println("S is not Palindrome");
             }
 
         }
