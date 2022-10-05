@@ -4,6 +4,7 @@ Test Case 1:
 Lower and Upper case input from user
 Example: 
 String="The life is a beautiful gift from god"
+Word to count the number of occurrence: the
 Output: Total "the" in the sentence:0
 Problem:
 If a user input "the" and "t" is in a lower case so it will not count "the" because "the" in the above string is in upper case.
