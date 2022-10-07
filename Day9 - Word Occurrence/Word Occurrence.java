@@ -28,9 +28,7 @@ Output:
 Total "not" in the sentence: 0
 
 Time complexity: O(n)
-Space Complexity: O(n)
 
-Code:
 */
 
 import java.util.Scanner;
