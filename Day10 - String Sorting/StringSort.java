@@ -8,7 +8,7 @@ Example:
 String="123"
 
 Solution:
-Can be handle by using Exception handling
+It can be handle by using Exception handling
 
 Example 1
 
