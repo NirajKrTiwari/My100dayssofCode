@@ -8,7 +8,7 @@ Example:
 String="123"
 
 Solution:
-We can make whole sentence and word to count in either in lower or upper case and then we can count the number of occurrence.
+Can be handle by using Exception handling
 
 Example 1
 
