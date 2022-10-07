@@ -41,9 +41,8 @@ P
 X
 Y
 
-Time complexity: O(n)
-Space Complexity: O(n)
-Code:
+Time complexity: O(n^2)
+
  */
 
 import java.util.*;
