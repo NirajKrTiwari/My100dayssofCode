@@ -1,4 +1,5 @@
 /*
+Linear Search
 Sample1
 Input:
 Enter number of element you want to enter:5
