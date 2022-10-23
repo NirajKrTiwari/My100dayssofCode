@@ -1,3 +1,4 @@
+
 /*
 Name Abbreviate
 -----------------------------------------------------------------
@@ -27,17 +28,18 @@ Name: A.K.Raju
 
  */
 import java.util.Scanner;
-public class NameAbbriviate{
+
+public class NameAbbreviate {
     public static void main(String[] args) {
         String str;
         Scanner in = new Scanner(System.in);
         System.out.print("Enter Name: ");
         str = in.nextLine();
         String A[] = str.split(" ");
-        char first=0;
-        String f="";
+        char first = 0;
+        String f = "";
 
-        for(int i=0;i<A.length;i++) {
+        for (int i = 0; i < A.length; i++) {
             Boolean flag = Character.isDigit(A[i].charAt(i));
             if (flag == false) {
                 if (i < A.length - 1) {
@@ -46,13 +48,11 @@ public class NameAbbriviate{
                 } else {
                     f = f + A[i];
                 }
+            } else {
+                System.out.println("Wrong Input");
+                break;
             }
-        else
-        {
-            System.out.println("Wrong Input");
-            break;
         }
-        }
-        System.out.println("Name: "+f);
+        System.out.println("Name: " + f);
     }
 }
